@@ -1,2 +1,6 @@
-tempCodeRunnerFile.py
-/memo
+.venv
+.dockervenv
+__pycache__
+poetry.lock
+pyproject.toml
+memo
